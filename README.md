@@ -1,2 +1,2 @@
 # hello-world
-This repository is related to, How to use GitHub ?
+This hello-world repository is related to, How to use GitHub ?
